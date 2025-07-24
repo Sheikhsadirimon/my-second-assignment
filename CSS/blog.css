@@ -19,6 +19,9 @@
 }
 
 .dealbg{
-  background-image: url("/assets/deal-bloom.png");
+  background-image: url(assets/deal-bloom.png);
   
+}
+.dealbg2{
+  background-image: url(assets/);
 }
