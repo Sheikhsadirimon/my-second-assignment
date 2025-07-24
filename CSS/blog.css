@@ -20,8 +20,14 @@
 
 .dealbg{
   background-image: url(assets/deal-bloom.png);
-  
+  border-radius: 16px;
 }
 .dealbg2{
-  background-image: url(assets/);
+  background-image: url(assets/deal-ana.png);
+  border-radius: 16px;
+}
+
+.dealbg3{
+  background-image: url(assets/deal-zabo.png);
+  border-radius: 16px;
 }
