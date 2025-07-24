@@ -17,3 +17,8 @@
   font-variation-settings:
     "wdth" 100;
 }
+
+.dealbg{
+  background-image: url("/assets/deal-bloom.png");
+  
+}
